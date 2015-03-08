@@ -1,0 +1,49 @@
+h1 {
+	color: blue !important;
+/*	margin-left: 400px !important;*/
+	font-style: zapfino !important;
+	font-weight:bold !important;
+	box-shadow: 10px 5px 5px black;
+	display: inline-block;
+	margin-bottom: 23px;
+	font-size: 50px !important; 
+}
+
+h2 {
+	/*color: blue !important;
+	width: 600px;
+	font-style: zapfino !important;
+	font-weight:bold !important;*/ 
+	color: blue !important;
+/*	margin-left: 480px !important;*/
+	font-style: zapfino !important;
+	font-weight:bold !important;
+	box-shadow: 10px 5px 5px black;
+	display: inline-block;
+	margin-bottom: 23px;
+	font-size: 35px !important; 
+
+}
+
+.email{
+	margin-top: 25px;
+	color: blue !important;
+	font-family: zapfino !important;
+	font-weight:bold !important;
+	box-shadow: 10px 5px 5px black;
+	display: inline-block;
+	margin-bottom: 23px;
+	font-size: 30px !important; 
+}
+
+
+html {
+	background: url(http://s2.hulkshare.com/song_images/original/8/a/7/8a788a3e647127c0d4c1817ca4d351a4.jpg?dd=1388552400);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-backkground-size: cover;
+	background-size: cover;
+	width:500px;
+	height:500px;
+}
+
